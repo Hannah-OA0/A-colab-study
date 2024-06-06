@@ -1,2 +1,2 @@
 # A-colab-study
-Helppppppppp
+Complete the robot verification, am I a human?!
